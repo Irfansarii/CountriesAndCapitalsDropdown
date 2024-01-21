@@ -1,0 +1,10 @@
+/* Write your CSS here */
+.container {
+  background-color: #93c5fd;
+  height: 100vh;
+  text-align: center;
+}
+.list-container {
+  display: flex;
+  justify-content: center;
+}
